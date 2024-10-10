@@ -249,6 +249,8 @@ export default {
   transform: rotateY(180deg);
 }
 
+
+
 @media screen and (max-width: 600px) {
   .section {
     width: 100vw;
@@ -1499,6 +1501,7 @@ export default {
     border: 1px color= silver;
     top: 12%;
     left: 18%;
+    z-index: 3;
   }
   .long-line2 {
     position: fixed;
@@ -1506,6 +1509,7 @@ export default {
     border: 1px color= silver;
     top: 12%;
     right: 18%;
+    z-index: 3;
   }
   .long-line3 {
     position: fixed;
@@ -1520,6 +1524,7 @@ export default {
     border: 1px color= silver;
     bottom: 12%;
     left: 18%;
+    z-index: 3;
   }
   .short-line1 {
     position: fixed;
@@ -1527,7 +1532,7 @@ export default {
     border: 1px color= silver;
     top: 24%;
     left: 6.9%;
-    z-index: 1;
+    z-index: 3;
   }
   .short-line2 {
     position: fixed;
@@ -1535,7 +1540,7 @@ export default {
     border: 1px color= silver;
     top: 62%;
     left: 6.9%;
-    z-index: 1;
+    z-index: 3;
   }
   .short-line3 {
     position: fixed;
@@ -1543,6 +1548,7 @@ export default {
     border: 1px color= silver;
     top: 62%;
     right: 6.9%;
+    z-index: 3;
   }
   .short-line4 {
     position: fixed;
@@ -1550,6 +1556,7 @@ export default {
     border: 1px color= silver;
     top: 24%;
     right: 6.9%;
+    z-index: 3;
   }
   .card-container {
     position: fixed;
