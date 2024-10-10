@@ -1,8 +1,14 @@
 // index.js
-const express = require('express');
+import express from 'express';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
 const app = express();
 const port = 3000;
-const path = require('path');
+
+// 현재 파일의 디렉토리 경로 얻기
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // JSON 요청을 처리할 수 있게 설정
 app.use(express.json());
@@ -14,9 +20,7 @@ app.get('/api/data', (req, res) => {
 // 정적 파일 제공
 app.use(express.static(path.join(__dirname, 'client/dist')));
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'client/dist', 'index.html'));
-});
+
 
 // 기본 라우트
 app.get('/', (req, res) => {
