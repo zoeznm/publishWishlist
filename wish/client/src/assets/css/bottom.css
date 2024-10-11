@@ -100,7 +100,6 @@ h1 {
   font-style: normal;
   font-size: 5em;
   position: absolute;
-  left: 20%;
   top: 0;
   color: lightgoldenrodyellow;
   text-shadow: 0 0 1px #bebe04, 0 0 0px #bebe04, 0 0 0px #bebe04,
@@ -219,25 +218,25 @@ h1 {
   gap: 10px;
   flex-direction: column;
   text-align: center;
-  background-color: #00cdc0;
 }
 
-#up {
+.up {
   position: absolute;
   left: 15%;
   top: 15%;
+  z-index: 10;
 }
-#left {
+.left {
   position: absolute;
   left: 0;
   top: 40%;
 }
-#right {
+.right {
   position: absolute;
   top: 40%;
   left: 30%;
 }
-#down {
+.down {
   position: absolute;
   bottom: 20%;
   left: 15%;

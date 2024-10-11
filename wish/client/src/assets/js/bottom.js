@@ -74,6 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
   }
+
   function updateCrosshair(x, y) {
     crosshairVertical.style.left = `${x}px`;
     crosshairHorizontal.style.top = `${y}px`;
