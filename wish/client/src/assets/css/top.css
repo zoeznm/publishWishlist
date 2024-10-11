@@ -40,9 +40,10 @@ body {
 
 .window {
   background: var(--maincolor2);
-  height: 100%;
-  width: 100%;
-  position: relative;
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  top: 0;
   border: 1px solid #000;
   z-index: 1;
 }
@@ -906,9 +907,10 @@ body {
 @media (min-width: 1025px) and (max-width: 1366px) {
   .window {
     background: var(--maincolor2);
-    height: 100%;
-    width: 100%;
-    position: relative;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
     border: 1px solid #000;
     z-index: 1;
   }
@@ -1764,9 +1766,10 @@ body {
 @media (min-width: 1367px) {
   .window {
     background: var(--maincolor2);
-    height: 100%;
-    width: 100%;
-    position: relative;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
     border: 1px solid #000;
     z-index: 1;
   }

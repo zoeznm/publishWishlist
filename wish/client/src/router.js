@@ -1,18 +1,23 @@
-// src/router.js
 import { createRouter, createWebHistory } from 'vue-router';
-import Top from './views/Top.vue'; // top.html이 아니라 top.vue로 가져와야 합니다.
+import Main from './components/Main.vue';
+import Top from './views/Top.vue';
 
 const routes = [
   {
     path: '/',
+    name: 'MainComponent',
+    component: Main
+  },
+  {
+    path: '/top',
     name: 'TopComponent',
     component: Top
   },
-  // 다른 라우트 추가
+  // 다른 라우트 추가 가능
 ];
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory(),
   routes
 });
 

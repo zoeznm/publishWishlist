@@ -16,19 +16,19 @@
         </div>
         <div class="icons">
           <div class="icon">
-            <img src="img/folder.png" alt="" />
+            <img src="../assets/img/folder.png" alt="" />
             <div class="text">Accessories</div>
           </div>
           <div class="icon">
-            <img src="img/folder.png" alt="" />
+            <img src="../assets/img/folder.png" alt="" />
             <div class="text">Games</div>
           </div>
           <div class="icon">
-            <img src="img/folder.png" alt="" />
+            <img src="../assets/img/folder.png" alt="" />
             <div class="text">Applications</div>
           </div>
           <div class="icon">
-            <img src="img/folder.png" alt="" />
+            <img src="../assets/img/folder.png" alt="" />
             <div class="text">main</div>
           </div>
         </div>
@@ -53,20 +53,20 @@
           <div class="menuitem1"><span>H</span>elp</div>
         </div>
         <div class="supremefolder">
-          <a href="top.html"><img src="img/supremefolder.png" alt="" />shirt</a>
+          <a href="top.html"><img src="../assets/img/supremefolder.png" alt="" />shirt</a>
           <a href="top.html"
-            ><img src="img/supremefolder.png" alt="" />T-shirt</a
+            ><img src="../assets/img/supremefolder.png" alt="" />T-shirt</a
           >
           <a href="top.html"
-            ><img src="img/supremefolder.png" alt="" />jumper</a
+            ><img src="../assets/img/supremefolder.png" alt="" />jumper</a
           >
           <a href="top.html"
-            ><img src="img/supremefolder.png" alt="" />hoodie</a
+            ><img src="../assets/img/supremefolder.png" alt="" />hoodie</a
           >
         </div>
         <div class="icons1">
           <div class="icon1">
-            <img src="img/supreme.png" alt="" class="supreme" />
+            <img src="../assets/img/supreme.png" alt="" class="supreme" />
             <div class="text1">Supreme</div>
           </div>
         </div>
@@ -93,24 +93,24 @@
         <div class="roafolder">
           <a
             href="https://www.roa-hiking.com/en-kr/products/roa-clothing-chore-shirt-multicolor-j277269?variant=47460186849612"
-            ><img src="img/roafolder.png" alt="" />Shirt</a
+            ><img src="../assets/img/roafolder.png" alt="" />Shirt</a
           >
           <a
             href="https://www.roa-hiking.com/en-kr/products/roa-clothing-graphic-boxy-tee-black-j294310?variant=48178814583116"
-            ><img src="img/roafolder.png" alt="" />T-shirt</a
+            ><img src="../assets/img/roafolder.png" alt="" />T-shirt</a
           >
           <a
             href="https://www.roa-hiking.com/en-kr/products/roa-clothing-roa-puffer-vest-blue-j298181?variant=48302154154316"
-            ><img src="img/roafolder.png" alt="" />Outerwear</a
+            ><img src="../assets/img/roafolder.png" alt="" />Outerwear</a
           >
           <a
             href="https://www.roa-hiking.com/en-kr/products/roa-clothing-mohair-polo-brown-j294334?variant=48178647400780"
-            ><img src="img/roafolder.png" alt="" />Knit</a
+            ><img src="../assets/img/roafolder.png" alt="" />Knit</a
           >
         </div>
         <div class="icons2">
           <div class="icon2">
-            <img src="img/roa.png" alt="" class="roa" />
+            <img src="../assets/img/roa.png" alt="" class="roa" />
             <div class="text2">Roa hiking</div>
           </div>
         </div>
@@ -136,21 +136,21 @@
         </div>
         <div class="arcteryxfolder">
           <a href="https://arcteryx.co.kr/goods/view?no=684064"
-            ><img src="img/arcteryxfolder.png" alt="" />Shirt</a
+            ><img src="../assets/img/arcteryxfolder.png" alt="" />Shirt</a
           >
           <a href="https://arcteryx.co.kr/goods/view?no=684078"
-            ><img src="img/arcteryxfolder.png" alt="" />T-shirt</a
+            ><img src="../assets/img/arcteryxfolder.png" alt="" />T-shirt</a
           >
           <a href="https://arcteryx.co.kr/goods/view?no=683940"
-            ><img src="img/arcteryxfolder.png" alt="" />Jumper</a
+            ><img src="../assets/img/arcteryxfolder.png" alt="" />Jumper</a
           >
           <a href="https://arcteryx.co.kr/goods/view?no=684373"
-            ><img src="img/arcteryxfolder.png" alt="" />Hoodie</a
+            ><img src="../assets/img/arcteryxfolder.png" alt="" />Hoodie</a
           >
         </div>
         <div class="icons3">
           <div class="icon3">
-            <img src="img/arcteryx.png" alt="" class="arcteryx" />
+            <img src="../assets/img/arcteryx.png" alt="" class="arcteryx" />
             <div class="text3">Arcteryx</div>
           </div>
         </div>
@@ -177,23 +177,23 @@
         <div class="ourlegacyfolder">
           <a
             href="https://www.ourlegacy.com/sincere-shirt-pleated-black-kitchen-weave"
-            ><img src="img/ourlegacyfolder.png" alt="" />Shirt</a
+            ><img src="../assets/img/ourlegacyfolder.png" alt="" />Shirt</a
           >
           <a
             href="https://www.ourlegacy.com/strap-denim-vest-western-blue-denim"
-            ><img src="img/ourlegacyfolder.png" alt="" />Top</a
+            ><img src="../assets/img/ourlegacyfolder.png" alt="" />Top</a
           >
           <a href="https://www.ourlegacy.com/full-zip-hood-boston-check-w"
-            ><img src="img/ourlegacyfolder.png" alt="" />Jumper</a
+            ><img src="../assets/img/ourlegacyfolder.png" alt="" />Jumper</a
           >
           <a
             href="https://www.ourlegacy.com/mazzy-polo-beige-melange-fuzzy-alpaca"
-            ><img src="img/ourlegacyfolder.png" alt="" />Knit</a
+            ><img src="../assets/img/ourlegacyfolder.png" alt="" />Knit</a
           >
         </div>
         <div class="icons4">
           <div class="icon4">
-            <img src="img/ourlegacy.png" alt="" class="ourlegacy" />
+            <img src="../assets/img/ourlegacy.png" alt="" class="ourlegacy" />
             <div class="text4">Our Lecacy</div>
           </div>
         </div>
